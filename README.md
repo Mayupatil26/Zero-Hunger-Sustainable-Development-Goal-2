@@ -3,13 +3,13 @@
 Sustainable Development Goal 2 - Zero Hunger
 Big Data Project (under prof. Andrew Schwartz)
 
+Languages, libraries & frameworks used: Python, Spark, TensorFlow, Pandas
 
 Responsibilities:
 1. Scraped data from twitter and applied Bloom filter with 5% error probability while streaming.
 2. Performed data cleaning and normalization on 5GB of data in Spark RDDs.
 3. Applied Ridge regression using TensorFlow to predict future trends, and visualized data using Pandas DataFrames and choropleth maps.
 
-Languages, libraries & frameworks used: Python, Spark, TensorFlow, Pandas
 
 Description:
 Following is the description of all the files:
